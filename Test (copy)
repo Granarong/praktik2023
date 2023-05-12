@@ -1,0 +1,4 @@
+import random
+RPS= ('Rock', 'Paper', 'Scissors')
+RPS = random.choice(RPS)
+print(RPS)
